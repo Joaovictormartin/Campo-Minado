@@ -1,4 +1,4 @@
-# Campo-Minado
+# Campo Minado React Native 
 ## Sobre o projeto
 Campo Minado feito em react com lógica em JavaScript
 
@@ -6,5 +6,5 @@ Campo Minado feito em react com lógica em JavaScript
 - JavaScript
 - React Native
 
-## Layout mobile
-[Mobile 1]() 
+
+
